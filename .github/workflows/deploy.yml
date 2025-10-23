@@ -1,4 +1,4 @@
-name: 🚀 Deploy Angular to GitHub Pages
+name: Deploy Angular to GitHub Pages
 
 on:
   workflow_run:
