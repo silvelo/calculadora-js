@@ -9,7 +9,8 @@
     "test": "ng test",
     "lint": "ng lint",
     "lint-staged": "lint-staged",
-    "prepare": "husky"
+    "prepare": "husky",
+    "release": "semantic-release"
   },
   "prettier": {
     "overrides": [
